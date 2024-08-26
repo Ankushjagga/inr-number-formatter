@@ -1,8 +1,8 @@
-# indian-suffix-format
+# indian-number-format
 
-A simple utility to format numbers with Indian suffixes like `k`, `L`, and `Cr`.
+A simple utility to format numbers with Indian number like `k`, `L`, and `Cr`.
 
 ## Installation
 
 ```bash
-npm install indian-suffix-format
+npm install indian-number-format
