@@ -1,0 +1,29 @@
+{
+  "name": "inr-number-formatter",
+  "version": "1.0.0",
+  "description": "a simple function  that convert the number into Indian number system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indian",
+    "number",
+    "format",
+    "suffix",
+    "currency",
+    "k",
+    "L",
+    "Cr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankushjagga/inr-number-formatter.git"
+  },
+  "author": "ankushJagga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankushjagga/inr-number-formatter/issues"
+  },
+  "homepage": "https://github.com/Ankushjagga/inr-number-formatter#readme"
+}
