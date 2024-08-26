@@ -9,9 +9,9 @@ npm install indian-number-format
 ```
 ## Example 
 ```js
-const { formatPrice } = require('indian-suffix-format');
+const  formatPrice  = require('inr-number-formatter');
 
-// Format numbers with Indian suffixes
+// Format numbers with Indian numbers
 console.log(formatPrice(123456789)); // Output: "12.35 Cr"
 console.log(formatPrice(1234567));   // Output: "12.35 L"
 console.log(formatPrice(12345));     // Output: "12.35k"
