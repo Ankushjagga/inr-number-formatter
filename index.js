@@ -21,7 +21,5 @@ function formatPrice(num) {
     }
   }
   
-  module.exports = {
-    formatPrice
-  };
+  module.exports = formatPrice
   
