@@ -1,6 +1,6 @@
 {
   "name": "inr-number-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple function  that convert the number into Indian number system",
   "main": "index.js",
   "scripts": {
